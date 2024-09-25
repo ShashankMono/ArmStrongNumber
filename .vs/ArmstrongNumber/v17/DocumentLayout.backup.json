@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\ArmstrongNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B04F2B79-64A9-473F-9371-3F9E4CC4CB07}|ArmstrongNumber\\ArmstrongNumber.csproj|c:\\users\\lenovo\\source\\repos\\armstrongnumber\\armstrongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B04F2B79-64A9-473F-9371-3F9E4CC4CB07}|ArmstrongNumber\\ArmstrongNumber.csproj|solutionrelative:armstrongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\ArmstrongNumber\\ArmstrongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "ArmstrongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\ArmstrongNumber\\ArmstrongNumber\\Program.cs",
+              "RelativeToolTip": "ArmstrongNumber\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:04:23.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

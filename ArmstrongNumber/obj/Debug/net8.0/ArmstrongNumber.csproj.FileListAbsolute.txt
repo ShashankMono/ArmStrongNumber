@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.exe
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.deps.json
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.dll
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\bin\Debug\net8.0\ArmstrongNumber.pdb
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.dll
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\refint\ArmstrongNumber.dll
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.pdb
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ArmstrongNumber.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ArmstrongNumber\ArmstrongNumber\obj\Debug\net8.0\ref\ArmstrongNumber.dll
